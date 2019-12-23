@@ -1,0 +1,25 @@
+{
+  "name": "webpack-project",
+  "version": "1.0.0",
+  "description": "Learning how to use webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyosung11/webpack-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyosung11/webpack-project/issues"
+  },
+  "homepage": "https://github.com/hyosung11/webpack-project#readme",
+  "devDependencies": {
+    "webpack": "^4.41.4",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.10.1"
+  }
+}
